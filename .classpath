@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/christov/Documents/PDFBox/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/christov/Documents/PDFBox/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/christov/Documents/PDFBox/fontbox-2.0.19.jar"/>
+	<classpathentry kind="lib" path="/home/christov/Documents/PDFBox/pdfbox-2.0.19.jar"/>
+	<classpathentry kind="lib" path="/home/christov/Documents/PDFBox/pdfbox-debugger-2.0.19.jar"/>
+	<classpathentry kind="lib" path="/home/christov/Documents/PDFBox/pdfbox-tools-2.0.19.jar"/>
+	<classpathentry kind="lib" path="/home/christov/Documents/PDFBox/preflight-2.0.19.jar"/>
+	<classpathentry kind="lib" path="/home/christov/Documents/PDFBox/xmpbox-2.0.19.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
